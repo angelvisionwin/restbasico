@@ -15,4 +15,4 @@ Se crea un ruteo sencillo y sin protecciones.
     
 - Instalación 
 
-    <code> npm install
+    <code> npm install </code>
