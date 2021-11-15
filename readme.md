@@ -1,4 +1,6 @@
-# Esquema de un servidor REST mínimo con rutas y sin protecciones
+# Esquema de un servidor (node) REST mínimo 
+
+Se crea un ruteo sencillo y sin protecciones.
 
 - Paquetes
     * express - web framework
@@ -11,5 +13,6 @@
     * public - carpeta pública con el contenido que se mostrará si alguien accede al servidor vía web
     * routes - un fichero para cada ruta "maestra" que se va a gestionar, importará el contenido de los controladores necesarios
     
+- Instalación 
 
-<code> Instalación : npm install
+    <code> npm install
